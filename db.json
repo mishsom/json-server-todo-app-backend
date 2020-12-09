@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "title": "buy milk",
+      "description": "buy 2 liters of cow milk",
+      "completeBy": "8-12-2020",
+      "isCompleted": true,
+      "id": 1
+    },
+    {
+      "title": "buy bread",
+      "description": "buy 2 bread packets",
+      "completeBy": "8-12-2020",
+      "isCompleted": true,
+      "id": 2
+    },
+    {
+      "title": "alpha todo",
+      "description": "this is king of all todos",
+      "completeBy": "10-12-2020",
+      "id": 3
+    }
+  ]
+}
